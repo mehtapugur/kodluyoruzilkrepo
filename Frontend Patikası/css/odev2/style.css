@@ -118,9 +118,9 @@ box-shadow: 0 2px 3px 0 rgba(0,0,0,0.24), 0 2px 5px 0 rgba(0,0,0,0.19);
 
 .googlesearch {
   background-color: #f8f9fa;
-    border: 1px solid #f8f9fa;
+  border: 1px solid #f2f2f2;
     border-radius: 4px;
-    color: #3c4043;
+    color: #5f6368;
     font-family: arial,sans-serif;
     font-size: 14px;
   margin: 11px 4px;
@@ -149,10 +149,10 @@ box-shadow: 0 2px 3px 0 rgba(0,0,0,0.24), 0 2px 5px 0 rgba(0,0,0,0.19);
 
 .feelinglucky {
   background-color: #f8f9fa;
-    border: 1px solid #f8f9fa;
+    border: 1px solid #f2f2f2;
     border-radius: 4px;
-    color: #3c4043;
-    font-family: arial,sans-serif;
+    color: #5f6368;
+    font-family: arial, sans-serif;
     font-size: 14px;
     margin: 11px 4px;
   padding: 0 16px;
@@ -175,6 +175,7 @@ box-shadow: 0 2px 3px 0 rgba(0,0,0,0.24), 0 2px 5px 0 rgba(0,0,0,0.19);
   width: 100%;
   margin-left: -8px;
   line-height: 10px;
+  background-color: #f2f2f2;
 }
 
 .footerli {
@@ -196,6 +197,10 @@ box-shadow: 0 2px 3px 0 rgba(0,0,0,0.24), 0 2px 5px 0 rgba(0,0,0,0.19);
 
 .footerli a:hover {
   text-decoration: underline;
+}
+
+.settings a{
+  margin-right: 100px;
 }
 
 .buttons {
