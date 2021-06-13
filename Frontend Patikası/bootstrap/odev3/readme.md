@@ -1,1 +1,1 @@
-#### This is a Medium clone
+#### This is a LinkedIn clone
