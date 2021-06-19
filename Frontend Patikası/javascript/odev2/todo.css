@@ -1,0 +1,57 @@
+body {
+  background-color: #D77FA1;
+}
+
+.container{
+  background-color: rgba(0,0,0,0.2);
+  max-width: 500px;
+  min-height: 250px;
+  margin-top: 35px;
+  border-radius: 10px;
+  padding-bottom: 12px;
+}
+
+h1{
+  text-align: center;
+  color: white;
+}
+
+ul {
+  margin-top: 20px;
+  min-height: 130px;
+}
+
+li {
+  list-style: none;
+  font-size: 20px;
+  color: white;
+}
+
+input {
+  border: none;
+  width: 90%;
+  font-size: 20px;
+}
+
+button {
+  background-color: transparent;
+  border: none;
+  font-size: 22px;
+  color: #D77FA1;
+  width: 33px;
+  height: 33px;
+  border-radius: 50%;
+}
+
+button:hover{
+  background-color: #AC6681;
+  color: white;
+}
+
+.ekle {
+  background-color: white;
+  text-align: center;
+  width: 83%;
+  border-radius: 5px;
+  margin-left: 8.5%;
+}
